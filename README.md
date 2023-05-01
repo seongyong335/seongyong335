@@ -1,4 +1,6 @@
-<img align="center" src="https://capsule-render.vercel.app/api?type=cylinder&color=auto&section=header&reversal=false&text=CASTLE_DRAGON%20CHOI">
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=auto&section=header&reversal=false&text=CASTLE_DRAGON%20CHOI">
+</div>
 <h1 align="center">Tech Stack</h1>
 <div align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
